@@ -8,7 +8,6 @@ public class Principal {
         Scanner scanner = new Scanner(System.in);
 
         int opcao;
-
         do {
             System.out.println("\nCalculadora");
             System.out.println("1 - Somar");
