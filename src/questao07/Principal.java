@@ -1,3 +1,4 @@
+//Escreva um programa que leia as medidas dos lados de um triângulo e escreva se ele é equilátero, isósceles ou escaleno. O comprimento de cada lado de um triângulo é menor do que a soma dos outros dois lados.
 package questao07;
 import java.util.Scanner;
 
@@ -20,4 +21,5 @@ public class Principal {
         }
         scanner.close();
     }
+
 }
