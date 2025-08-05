@@ -24,10 +24,11 @@ public class Principal {
         }  else if (imc>=35 && imc<=39.9){
             classificacao = "Obesidade Grau II (Severa)";
         } else{
-            classificacao = "Obesidade Grau III (Mórbida";
+            classificacao = "Obesidade Grau III (Mórbida)";
         }
 
         System.out.printf("> Seu IMC é %.2f e você está %s%n", imc, classificacao);
         scanner.close();
     }
 }
+
