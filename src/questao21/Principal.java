@@ -1,3 +1,4 @@
+//Leia a idade e o tempo de serviço de um trabalhador e escreva se ele pode ou não se aposentar. 
 package questao21;
 import java.util.Scanner;
 
