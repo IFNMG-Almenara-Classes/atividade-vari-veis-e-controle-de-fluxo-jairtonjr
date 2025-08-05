@@ -1,3 +1,4 @@
+//Construa um programa que solicite números inteiros ao usuário repetidamente. Ao receber o valor “0”, o programa deve imprimir a quantidade de números pares que foram digitados e a média de todos os números digitados, exceto o “0”.
 package questao12;
 import java.util.Scanner;
 
