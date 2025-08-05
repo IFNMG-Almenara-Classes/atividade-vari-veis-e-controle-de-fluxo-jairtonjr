@@ -21,5 +21,4 @@ public class Principal {
         }
         scanner.close();
     }
-
 }
