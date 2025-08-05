@@ -1,3 +1,4 @@
+//Escreva um programa que receba um número e informe se o número é par ou ímpar.
 package questao03;
 import java.util.Scanner;
 
