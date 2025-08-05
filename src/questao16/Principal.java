@@ -1,3 +1,5 @@
+/*Construa um programa que imprima a Tabuada da divisão e multiplicação de um determinado inteiro informado pelo usuário. 
+A tabuada deve apresentar as operações e os resultados entre o número e os números do intervalo entre 1 e 10.*/
 package questao16;
 import java.util.Scanner;
 
