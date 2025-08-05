@@ -20,7 +20,6 @@ public class Principal {
         if (num3 < menor) {
             menor = num3;
         }
-
         System.out.println("> O menor número é " + menor);
         scanner.close();
     }
