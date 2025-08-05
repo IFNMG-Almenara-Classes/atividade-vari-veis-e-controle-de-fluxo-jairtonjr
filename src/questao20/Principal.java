@@ -8,10 +8,10 @@ public class Principal {
         System.out.print("Digite um número inteiro: ");
         int num = scanner.nextInt();
 
-        boolean divisivelPor3 = num % 3 == 0;
-        boolean divisivelPor5 = num % 5 == 0;
+        boolean dividePor3 = num % 3 == 0;
+        boolean dividePor5 = num % 5 == 0;
 
-        if (divisivelPor3 ^ divisivelPor5) {
+        if (dividePor3 ^ dividePor5) {
             System.out.println("> O número é divisível por 3 ou 5, mas não por ambos.");
         } else {
             System.out.println("> O número não atende à condição.");
