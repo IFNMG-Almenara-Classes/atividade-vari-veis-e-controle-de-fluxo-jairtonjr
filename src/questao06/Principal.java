@@ -1,3 +1,4 @@
+//Escreva um programa que receba três inteiros e informe qual o menor deles.
 package questao06;
 import java.util.Scanner;
 
