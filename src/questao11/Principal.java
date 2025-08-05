@@ -1,3 +1,4 @@
+//Construa um programa que solicite do usuário um número inteiro e positivo e imprima todos os números pares entre 0 e o número digitado.
 package questao11;
 import java.util.Scanner;
 
