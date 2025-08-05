@@ -1,3 +1,4 @@
+//Escreva um programa que, dados dois números inteiros positivos inseridos pelo usuário, verifique e imprima a quantidade de números primos entre eles.
 package questao18;
 import java.util.Scanner;
 
@@ -9,7 +10,6 @@ public class Principal {
         }
         return true;
     }
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Digite o primeiro número (positivo): ");
