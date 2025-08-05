@@ -1,3 +1,4 @@
+//Escreva um programa utilizando o comando switch que imprima um mês de acordo com o número digitado pelo usuário. (1 – Janeiro,...,12 – Dezembro).
 package questao15;
 import java.util.Scanner;
 
@@ -8,7 +9,6 @@ public class Principal {
         int mes = scanner.nextInt();
 
         String nomeMes;
-
         switch (mes) {
             case 1: nomeMes = "Janeiro";
             break;
