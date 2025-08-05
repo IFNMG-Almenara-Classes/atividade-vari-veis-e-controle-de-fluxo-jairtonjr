@@ -1,3 +1,5 @@
+/*Construa um programa que exiba um menu com 5 opções: Ao escolher uma das opções entre 1 e 4, o programa deve solicitar que o usuário informe dois números, calcular a operação escolhida, imprimir o resultado e apresentar o menu novamente. 
+Ao selecionar a opção 5, o programa deve ser finalizado. Escolhendo uma opção que não existe no menu, o programa deve apresentar o menu novamente.*/
 package questao13;
 import java.util.Scanner;
 
