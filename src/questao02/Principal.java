@@ -26,9 +26,7 @@ public class Principal {
         } else{
             classificacao = "Obesidade Grau III (Mórbida)";
         }
-
         System.out.printf("> Seu IMC é %.2f e você está %s%n", imc, classificacao);
         scanner.close();
     }
 }
-
