@@ -1,3 +1,4 @@
+//Escreva um programa que verifique a validade de uma senha fornecida pelo usuário. A senha válida é o número 1234. 
 package questao04;
 import java.util.Scanner;
 
