@@ -1,3 +1,4 @@
+//Escrever um programa para exibir os números de 1 até 50 na tela usando o for.
 package questao08;
 
 public class Principal {
