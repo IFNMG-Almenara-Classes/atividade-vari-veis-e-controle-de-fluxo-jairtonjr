@@ -11,19 +11,19 @@ public class Principal {
         String nomeDia;
         switch (dia) {
             case 1: nomeDia = "Domingo";
-                break;
+            break;
             case 2: nomeDia = "Segunda-feira"; 
-                break;
+            break;
             case 3: nomeDia = "Terça-feira"; 
-                break;
+            break;
             case 4: nomeDia = "Quarta-feira";
-                break;
+            break;
             case 5: nomeDia = "Quinta-feira"; 
-                break;
+            break;
             case 6: nomeDia = "Sexta-feira"; 
-                break;
+            break;
             case 7: nomeDia = "Sábado"; 
-                break;
+            break;
             default: nomeDia = "Número inválido";
         }
         System.out.println("> " + nomeDia);
