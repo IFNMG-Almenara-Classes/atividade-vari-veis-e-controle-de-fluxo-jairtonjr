@@ -19,9 +19,9 @@ public class Principal {
             classificacao = "Saudável";
         } else if (imc>=25 && imc<=29.9){
             classificacao = "Sobrepeso";
-        } else if (imc>=30 && imc<=39.9){
+        } else if (imc>=30 && imc<=34.9){
             classificacao = "Obesidade Grau I";
-        }  else if (imc>=40 && imc<=49.9){
+        }  else if (imc>=35 && imc<=39.9){
             classificacao = "Obesidade Grau II (Severa)";
         } else{
             classificacao = "Obesidade Grau III (Mórbida";
@@ -30,5 +30,4 @@ public class Principal {
         System.out.printf("> Seu IMC é %.2f e você está %s%n", imc, classificacao);
         scanner.close();
     }
-
 }
