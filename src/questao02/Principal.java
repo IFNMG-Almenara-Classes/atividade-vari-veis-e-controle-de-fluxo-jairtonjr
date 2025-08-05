@@ -1,3 +1,4 @@
+//Escreva um programa que solicite ao usuário o seu peso e altura, calcule e imprima o seu IMC e a sua classificação.
 package questao02;
 import java.util.Scanner;
 
@@ -29,4 +30,5 @@ public class Principal {
         System.out.printf("> Seu IMC é %.2f e você está %s%n", imc, classificacao);
         scanner.close();
     }
+
 }
