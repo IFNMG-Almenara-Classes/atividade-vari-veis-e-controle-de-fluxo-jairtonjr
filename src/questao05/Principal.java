@@ -1,3 +1,4 @@
+//As laranjas custam R$0,50 cada se forem compradas menos do que uma dúzia, e R$0,30 se forem compradas pelo menos doze. Escreva um programa que leia o número de laranjas compradas, calcule e escreva o valor total da compra.
 package questao05;
 import java.util.Scanner;
 
