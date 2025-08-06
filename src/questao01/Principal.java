@@ -1,6 +1,6 @@
 //Escreva um programa que receba dois inteiros e informe qual o maior deles.
 package questao01;
-include java.util.Scanner;
+import java.util.Scanner;
 
 public class Principal {
     public static void main(String[] args) {
